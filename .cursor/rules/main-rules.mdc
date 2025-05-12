@@ -1,0 +1,16 @@
+---
+description: Main Rules of Roblox API and Lua Scripting in Roblox
+globs: *.md
+---
+
+# Main Rules to always follow
+
+- ALWAYS check the /Docs directory. I have stored Roblox API Documentation and Lua Language Documentation to always check. Always analyze and deeply understand these files before answering. 
+
+They are in these files:
+[Advanced_Lua_RobloxDoc.md](mdc:Docs/Advanced_Lua_RobloxDoc.md)
+[Overview of Roblox APIs.md](mdc:Docs/Overview of Roblox APIs.md)
+[Roblox_API_Doc1.md](mdc:Docs/Roblox_API_Doc1.md)
+[Roblox_Lua_Features_Report_ReplicatedStorage_HTTP_Loadstring.md](mdc:Docs/Roblox_Lua_Features_Report_ReplicatedStorage_HTTP_Loadstring.md)
+
+---
